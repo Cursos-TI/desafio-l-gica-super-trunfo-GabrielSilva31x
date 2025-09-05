@@ -304,8 +304,8 @@
   default:
   printf("Opção Invalida!\n");
   break;
-    }
   }
+ }
 
   return 0;
 }
